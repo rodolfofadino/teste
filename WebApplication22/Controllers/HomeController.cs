@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using WebApplication22.Models;
 
 namespace WebApplication22.Controllers
-{
+
     public class HomeController : Controller
     {
         public IActionResult Index()
